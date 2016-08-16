@@ -1,2 +1,2 @@
 # zuoshenbook
-learn to be like zuoshen
+learn to be a person like zuoshen
