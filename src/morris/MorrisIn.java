@@ -1,6 +1,10 @@
+package morris;
+
+import node.Node;
+
 /**
  * Created by sjh on 2016/8/17.
- * Morris神级遍历二叉树法（中序遍历）
+ * Morris神级遍历二叉树法（中序遍历）,O（1）空间复杂度，即不用栈和递归,时间复杂度为O(N)
  */
 public class MorrisIn {
     public void morrisIn(Node head){
@@ -29,12 +33,4 @@ public class MorrisIn {
     }
 
 
-    class Node{
-        public int value;
-        Node left;
-        Node right;
-        public Node(int value){
-            this.value = value;
-        }
-    }
 }
