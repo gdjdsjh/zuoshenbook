@@ -1,4 +1,4 @@
-package morris;
+package zuobook.morris;
 
 import node.Node;
 

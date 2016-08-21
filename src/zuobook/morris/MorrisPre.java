@@ -1,8 +1,6 @@
-package morris;
+package zuobook.morris;
 
 import node.Node;
-
-import java.util.Stack;
 
 /**
  * Created by sjh on 2016/8/21.
